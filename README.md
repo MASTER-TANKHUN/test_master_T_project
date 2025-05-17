@@ -1,2 +1,2 @@
-# โปรเจกต์แรกของผม
-เกี่ยวกับการเรียนรู้การใช้git-github
+# My first project
+About learning to use git-github
